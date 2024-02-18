@@ -2,8 +2,8 @@
 
 1. Modular Administration Area
 2. CPT Manager
-Custom Taxonomy Manager
-Widget to Upload and Display media in sidebars
-Post and Pages Gallery integration
-Testimonial section: Comment in the front-end, Admins can approve comments, select which comments to display
-Custom template section
+3. Custom Taxonomy Manager
+4. Widget to Upload and Display media in sidebars
+5. Post and Pages Gallery integration
+6. Testimonial section
+7. Custom template section

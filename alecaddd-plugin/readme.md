@@ -1,7 +1,7 @@
 # Making Custom Plugin
 
-Modular Administration Area
-CPT Manager
+1. Modular Administration Area
+2. CPT Manager
 Custom Taxonomy Manager
 Widget to Upload and Display media in sidebars
 Post and Pages Gallery integration
